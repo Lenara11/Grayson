@@ -19,6 +19,10 @@ ul {
     padding: 0 15px;
 }
 
+body {
+    background: #909090;
+}
+
 .header__nav-box {
     display: flex;
     justify-content: space-between;
